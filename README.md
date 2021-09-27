@@ -32,4 +32,10 @@ I studied at Henry's Bootcamp, where I learned the following Tecnologies
 
 <a href="https://project-nft-s-frontend.vercel.app/" ><img align="center" src="https://res.cloudinary.com/dssgkdspy/image/upload/v1632708458/Captura_de_Pantalla_2021-09-26_a_la_s_23.03.04_bgu8jw.png" width="500" /></a>
 
-  
+ #### `Dog App`
+<div display="flex">
+<a href="https://github.com/fernandoschulzz/PI-Dogs-FT15a"><img align="center" src="https://res.cloudinary.com/dssgkdspy/image/upload/v1632709380/Captura_de_Pantalla_2021-09-26_a_la_s_23.22.38_hl7d1o.png" width="300" /></a>
+<a href="https://github.com/fernandoschulzz/PI-Dogs-FT15a"><img align="center" src="https://res.cloudinary.com/dssgkdspy/image/upload/v1632709754/Captura_de_Pantalla_2021-09-26_a_la_s_23.28.52_j3lngp.png" width="300" /></a>
+<a href="https://github.com/fernandoschulzz/PI-Dogs-FT15a"><img align="center" src="https://res.cloudinary.com/dssgkdspy/image/upload/v1632709805/Captura_de_Pantalla_2021-09-26_a_la_s_23.29.50_sh0fdu.png" width="300" /></a>
+
+ </div>
