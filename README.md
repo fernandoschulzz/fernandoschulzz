@@ -28,7 +28,7 @@ I studied at Henry's Bootcamp, where I learned the following Tecnologies
 
   ## 📍 **My projects**
 
-#### `NFT Marketplace` 🇦🇷
+#### `NFT Marketplace`
 
 <a href="https://project-nft-s-frontend.vercel.app/" ><img align="center" src="https://res.cloudinary.com/dssgkdspy/image/upload/v1632708458/Captura_de_Pantalla_2021-09-26_a_la_s_23.03.04_bgu8jw.png" width="500" /></a>
 
